@@ -1,0 +1,66 @@
+.channel {
+  border-radius: 8px;
+  opacity: 1;
+  width: 100%;
+  max-width: 272px;
+  height: 59px;
+}
+.active-channel {
+  background: #d4deff 0% 0% no-repeat padding-box;
+}
+
+.channel-logo {
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  padding: 8px;
+  background: #7181a1;
+  border: 1px solid #7181a1;
+  color: #ffffff;
+  text-align: center;
+  font: 16px Arial, sans-serif;
+  margin-left: 16px;
+  float: left;
+}
+
+.channel-number {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  padding: 2px;
+  background: #f84848;
+  border: 1px solid #f84848;
+  color: #ffffff;
+  text-align: center;
+  font: 12px Arial, sans-serif;
+  float: right;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.channel-online {
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  padding: 4px;
+  background: #08f500;
+  border: 1px solid #08f500;
+  color: #ffffff;
+  text-align: center;
+  font: 8px Arial, sans-serif;
+  float: right;
+  margin-right: 20px;
+}
+
+.vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.channel-name {
+  padding-left: 16px;
+  float: left;
+}

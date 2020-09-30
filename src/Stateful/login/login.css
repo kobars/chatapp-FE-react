@@ -1,0 +1,29 @@
+.form-label {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.login-page {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../../login-background.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.form-container {
+  width: 320px;
+  margin: 0 auto;
+}
+.subtitle {
+  text-align: center;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  font-weight: bold;
+}
+
+.login-title {
+  padding: 20px;
+}

@@ -1,0 +1,29 @@
+#sidebar-wrapper {
+  height: 100vh;
+  position: fixed;
+  padding-left: 20px;
+}
+
+.list-title {
+  padding-top: 40px;
+  font-size: 16px;
+  color: #8d8d8d;
+}
+
+.server-title {
+  padding-top: 24px;
+  text-align: center;
+  font-size: 24px;
+  color: #444444;
+}
+
+.logout-btn {
+  margin-top: 16px;
+}
+
+.channel-name-chat {
+  color: #444444;
+  font-size: 24px;
+  padding-top: 24px;
+  padding-bottom: 32px;
+}
