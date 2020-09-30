@@ -2,7 +2,7 @@
   border-radius: 8px;
   opacity: 1;
   width: 100%;
-  max-width: 272px;
+  /* max-width: 272px; */
   height: 59px;
 }
 .active-channel {
